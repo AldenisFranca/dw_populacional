@@ -1,22 +1,22 @@
-# dw_populacional
+# Data Warehouse Populacional
 
 REQUISITOS:
-1. Quanto ao DW: proponha um modelo estrela, identificando:
+### 1. Quanto ao DW: proponha um modelo estrela, identificando:
      - Dimensões: pelo menos 3 (lembrar que uma deve ser de tempo)
      - Tabelas de fatos: pelo menos 1
      - Medidas: pelos menos 3
     OBS.: Tabelas de dimensão só devem ser criadas se tiverem relacionamento direto ou indireto com alguma tabela de fato.
-2. Implementar o DW: criar a estrutura das tabelas em um SGBD da sua preferência
-3. Quanto às fontes dos dados: utilizar fontes de dados diferentes de pelo menos 2 tipos diferentes:
+### 2. Implementar o DW: criar a estrutura das tabelas em um SGBD da sua preferência
+### 3. Quanto às fontes dos dados: utilizar fontes de dados diferentes de pelo menos 2 tipos diferentes:
      - Uma das fontes de dados deve ser uma base de dados relacional em qualquer SGBD.
      - As demais fontes podem ser: planilhas, arquivos TXT, arquivos CSV ou outras bases de dados relacionais.
      - A carga dos dados devem resultar em uma tabela de fatos com pelo menos 2000 linhas.
-4. Quanto à integração dos dados: 
+### 4. Quanto à integração dos dados: 
      - Realizar a extração dos dados das fontes definidas no ITEM 3.
      - Transformar e integrar os dados para que possa ser feita a carga dos dados nas tabelas destino.
      - Carregar os dados nas tabelas do DW criado pelo ITEM 2.
 
-5. Quanto à criação do cubo: 
+### 5. Quanto à criação do cubo: 
      - Modelar as dimensões, fatos e medidas em uma ferramenta apropriada.
      - Criar hierarquias nas dimensões com pelo menos 2 níveis.
 
