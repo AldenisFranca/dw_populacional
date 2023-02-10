@@ -24,15 +24,14 @@ FERRAMENTAS A SEREM UTILIZADAS:
 Vocês podem utilizar quaisquer ferramentas para a realização das etapas acima, porém o suporte só consigo ofertar nas vistas em sala de aula, cujos links de download e tutoriais de instalação estão disponíveis no mural da disciplina.
 Caso decida utilizar outras ferramentas de BI, favor combinar com a professora antes para que seja definido o mecanismo de entrega.
 
-EQUIPE: de até 3 alunos
-
 ENTREGAS:
 Será dividida em duas partes:
-PARTE 1: até 23/dez/2022
+PARTE 1:
 - Definição das fontes de dados e do modelo estrela (tabelas de fatos e dimensões, contendo colunas e relacionamentos, tipos de dados restrições).
 Envio: um documento descrevendo as fontes de dados, o modelo projetado e a ideia de migração entre fonte e destino.
-PARTE 2: até 09/jan/2023
+PARTE 2:
 OBS.: Só passa para a PARTE 2 após autorização da professora avaliar a PARTE 1.
+
 - Implementação do DW em um SGBD
 - Criação do processo de ETL completo
 - Modelagem do cubo completo
